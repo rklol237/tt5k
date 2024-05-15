@@ -1,3 +1,9 @@
+0.0.0.0 claritybt.freshmarketer.com
+0.0.0.0 fwtracks.freshmarketer.com
+
+
+
+
 0.0.0.0 n2019cov.000webhostapp.com
 0.0.0.0 webmail-who-int.000webhostapp.com
 0.0.0.0 010sec.com
